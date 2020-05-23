@@ -3,8 +3,8 @@ use <blue-pill.scad>
 use <key.scad>
 include <printing.scad>
 
-nb_row=5;
-nb_col=15;
+nb_row=4;
+nb_col=12;
 rounding=3;
 border=8;
 switch_hole=14.3;// by spec should be 14, can be adjusted for printer imprecision
